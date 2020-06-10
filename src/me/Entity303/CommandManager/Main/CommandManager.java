@@ -8,9 +8,4 @@ public class CommandManager {
     public static CommandManagerAPI getCommandManagerAPI() {
         return CommandManager.commandManagerAPI;
     }
-
-
-    private void someMethod() {
-
-    }
 }
